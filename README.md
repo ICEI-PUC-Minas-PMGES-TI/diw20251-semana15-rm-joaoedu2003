@@ -16,8 +16,8 @@ Sugerimos o uso das seguintes ferramentas acessíveis: [FullCalendar](https://fu
 
 **Print da tela com a implementação**
 
-<< Coloque aqui uma breve explicação da implementação feita nessa etapa>>
+Eu utilizei a biblioteca de calendário para mostrar a data no Homepage de Calculadora, mostrando os lembretes de o que tem que fazer com a calculadora. Eu instalei o FullCalendar através de NPM e simplesmente implementei o script de FullCalendar. Para criar um novo evento, é só clicar no dia escolhido e colocar o nome que depois disso vai ficar registrado, é um sistema bem simples.
 
-<<  COLOQUE A IMAGEM TELA 1 AQUI >>
+![alt_text](calendar1.png)
 
-<<  COLOQUE A IMAGEM TELA 2 AQUI >>
+![alt_text](calendar2.png)
