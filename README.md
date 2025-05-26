@@ -9,10 +9,10 @@ Sugerimos o uso das seguintes ferramentas acessíveis: [FullCalendar](https://fu
 
 ## Informações do trabalho
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: João Vitor Carvalho Domingos
+- Matricula: 896226
+- Proposta de projeto escolhida: Calculadora
+- Breve descrição sobre seu projeto: Esse projeto serve para você escolher as operações e colocar dois números para que resulte a certa operação desses dois.
 
 **Print da tela com a implementação**
 
